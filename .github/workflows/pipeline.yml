@@ -1,4 +1,4 @@
-name: conchayoro-pipeline
+name: pipeline
 
 on:
   push:
